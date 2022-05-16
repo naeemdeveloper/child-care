@@ -1,0 +1,85 @@
+/*---------------------------------------
+    ## Button
+---------------------------------------*/
+.template-large-button {
+    color: $paragraph-color;
+    background: transparent;
+    border: 1px solid $paragraph-color;
+    font-size: 16px;
+    font-family: $heading-font;
+    text-transform: capitalize;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 5px;
+    transition: $transition;
+    &:hover {
+        color: $white-color;
+        background: $primary-color;
+        border: 1px solid transparent;
+        box-shadow: 0 10px 10px #ED517333;
+    }
+}
+
+.template-small-button {
+    color: $paragraph-color;
+    background: transparent;
+    border: 1px solid $paragraph-color;
+    font-size: 14px;
+    font-family: $heading-font;
+    text-transform: capitalize;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 5px;
+    transition: $transition;
+    &:hover {
+        color: $white-color;
+        background: $primary-color;
+        border: 1px solid transparent;
+        box-shadow: 0 10px 10px #ED517333;
+    }
+}
+
+.gallery-tab {
+    text-align: center;
+    margin-bottom: 70px;
+    ul {
+        li {
+            color: $heading-color;
+            background-color: transparent;
+            font-size: 16px;
+            font-family: $heading-font;
+            text-transform: capitalize;
+            display: inline-block;
+            padding: 8px 20px 8px 0;
+            border-bottom: 1px solid transparent;
+            margin-right: 30px;
+            cursor: pointer;
+        }
+        .active {
+            color: $primary-color;
+            border-bottom: 1px dashed $primary-color;
+        }
+    }
+}
+
+.template-button-arrow {
+    color: $primary-color;
+    font-weight: 600;
+    text-transform: capitalize;
+    position: relative;
+    display: inline-block;
+    font-family: $heading-font;
+    i {
+        position: absolute;
+        top: 0;
+        right: -28px;
+        font-size: 20px;
+        transition: $transition;
+    }
+    &:hover {
+        color: $primary-color;
+        i {
+            right: -32px;
+        }
+    }
+}

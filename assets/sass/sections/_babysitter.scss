@@ -1,0 +1,51 @@
+/* Babysitter */
+.babysitter-area {
+    position: relative; 
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 50%;
+        background-color: $paragraph-color;
+    }
+    .section-title {
+        h2, p {
+            color: $white-color;
+        }
+    }
+    .child-care-babysitter-slider {
+        padding-bottom: 50px;
+    }
+
+    
+    
+    .slick-dots {
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+    }
+    .slick-dots li {
+        display: inline;
+        margin: 0 7px;
+    }
+    .slick-dots button {
+        color: transparent;
+        background-color: transparent;
+        border: 1px solid $blue-color;
+        box-shadow: inset 0 0 0 3px $white-color;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        transition: $transition;
+        cursor: pointer;
+    }
+    .slick-dots .slick-active button {
+        background-color: $blue-color;
+        border: 1px solid $blue-color;
+        box-shadow: inset 0 0 0 3px $white-color;
+    }
+}
+

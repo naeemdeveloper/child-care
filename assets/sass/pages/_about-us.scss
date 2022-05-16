@@ -1,0 +1,51 @@
+/* About Us Page */
+.about-banner-bg {
+    position: relative;
+    &:before {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        background: url('../img/banner-bg/about-banner-bg.png') no-repeat center bottom / 35%;
+    }
+}
+
+.daycare-area {
+    background-color: $blue-color;
+    position: relative;
+    overflow: hidden;
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 15%;
+        background: linear-gradient(-3deg, $blue-color 50%, $white-color 50%) ;
+    }
+    .daycare-left {
+        width: 95%;
+        img {
+            width: 180px;
+            height: auto;
+        }
+    }
+    .babycare-right {
+        img {
+            width: 90%;
+            height: 100%;
+            display: block;
+            border-radius: 5px;
+            margin-left: auto;
+        }
+    }
+    h2 {
+        color: $white-color;
+    }
+}
+
+.about-us-babysitter-area {
+    background-color: $white-color;
+}

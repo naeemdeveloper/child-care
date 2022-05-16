@@ -1,0 +1,65 @@
+/*-------------------------
+    Footer Area
+-------------------------*/
+.footer-area {
+    background: $paragraph-color;
+    .footer-widget-area {
+        padding: 120px 0 90px;
+        border-bottom: 1px solid rgba(255,255,255,.3);
+        form {
+            position: relative;
+            margin-bottom: 20px;
+            width: 100%;
+            input {
+                color: $white-color;
+                background: $primary-color;
+                width: 100%;
+                border: 1px solid transparent;
+                padding: 12px 90px 12px 24px;
+            }
+            button {
+                color: $white-color;
+                border: 1px solid transparent;
+                padding: 12px 24px;
+                border-radius: 5px;
+                position: absolute;
+                top: 0;
+                right: 0;
+                background: transparent;
+                cursor: pointer;
+            }
+            ::placeholder {
+                color: $white-color;
+                opacity: 1; /* Firefox */
+              }
+              :-ms-input-placeholder { /* Internet Explorer 10-11 */
+               color: $white-color;
+              }
+              ::-ms-input-placeholder { /* Microsoft Edge */
+               color: $white-color;
+              }
+        }
+
+        .footer-logo {
+            img {
+                width: 220px;
+                height: auto;
+            }
+        }
+    }
+
+    .footer-copyright-area {
+        padding: 20px 0;
+        color: $white-color;
+        a {
+            color: $primary-color;
+            transition: $transition;
+            &:hover {
+                color: $primary-color;
+            }
+        }
+        .active {
+            color: $primary-color;
+        }
+    }
+}

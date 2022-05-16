@@ -1,0 +1,15 @@
+/* Activity */
+.activity-area {
+    li {
+        position: relative;
+        margin-bottom: 20px;
+        i {
+            color: $secondary-color;
+            display: inline-block;
+            margin-right: 5px;
+        }
+    }
+    span.dashed-style {
+        margin-left: 0;
+    }
+}

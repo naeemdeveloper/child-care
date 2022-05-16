@@ -1,0 +1,14 @@
+/*---------------------------------------
+    ## Back Top
+---------------------------------------*/
+.back-to-top {
+    position: fixed;
+    right: 50px;
+    bottom: 130px;
+    color: $primary-color;
+    text-align: center;
+    z-index: 9;
+    font-size: 35px;
+    cursor: pointer;
+    display: none;
+}

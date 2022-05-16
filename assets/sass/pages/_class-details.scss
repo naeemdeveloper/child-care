@@ -1,0 +1,106 @@
+/* Class Details */
+.class-details-section {
+    .class-deatils-image {
+        img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+    }
+
+    .left-content-top {
+        display: flex;
+        justify-content: space-between;
+        margin: 30px 0;
+        .content-top-title {
+            span {
+                color: $secondary-color;
+            }
+        }
+
+        .box-02-shape {
+            background: $secondary-color;
+            width: 70px;
+            height: 70px;
+            position: relative;
+            text-align: center;
+            border-radius: 4px;
+            top: 10px;
+        }
+        .box-02-shape:before,
+        .box-02-shape:after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 70px;
+            width: 70px;
+            background: $secondary-color;
+            border-radius: 4px;
+        }
+        .box-02-shape:before {
+            transform: rotate(30deg);
+        }
+        .box-02-shape:after {
+            transform: rotate(60deg);
+        }
+    
+        .span-color {
+            color: $secondary-color;
+        }
+        .box-02-shape-text {
+            color: $white-color;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            z-index: 1;
+            .big-span {
+                font-size: 30px;
+                font-weight: 700;
+                display: block;
+                line-height: 30px;
+            }
+            .small-span {
+                font-size: 14px;
+                text-transform: uppercase;
+            }
+        }
+    }
+
+    .class-details-sidebar {
+        margin-top: 30px;
+        .sidebar-single-box {
+            background-color: $white-soft-color;
+            padding: 30px;
+            border-radius: 5px;
+            .single-box-item {
+                display: flex;
+                justify-content: space-between;
+            }
+        }
+        ul {
+            li {
+                color: #4A4857;
+                margin: 15px 0;
+            }
+        }
+    }
+
+
+    ul.star-rating {
+        margin: 10px 0;
+        li {
+            display: inline;
+            margin-right: 5px;
+            i {
+                color: $primary-color;
+            }
+        }
+    }
+
+    .template-large-button {
+        color: $white-color;
+        background-color: $primary-color;
+        border: 1px solid transparent;
+    }
+}

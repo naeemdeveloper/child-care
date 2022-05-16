@@ -1,0 +1,65 @@
+/* Services Page */
+.single-price-box {
+    background-color: $white-soft-color;
+    border: 1px solid $border-color;
+    width: 100%;
+    padding: 80px 0;
+    border-radius: 5px;
+    text-align: center;
+    transition: $transition;
+    position: relative;
+    top: 0;
+    .price-dollar {
+        position: relative;
+        width: 100px;
+        height: 50px;
+        margin: 20px auto;
+        .dollar-sign {
+            color: $heading-color;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-weight: 700;
+            transition: $transition;
+        }
+        .price-number {
+            color: $heading-color;
+            font-size: 50px;
+            font-family: $heading-font;
+            transition: $transition;
+        }
+    }
+    h4 {
+        transition: $transition;
+    }
+    ul {
+        margin: 30px 0;
+        li {
+            padding: 15px 0;
+            border-bottom: 1px solid $border-color;
+            transition: $transition;
+        }
+        .border-none {
+            border-bottom: transparent;
+        }
+    }
+}
+.single-price-box.active {
+    background: $paragraph-color;
+    box-shadow: 0px 10px 12px $border-color;
+    top: -20px;
+    .dollar-sign,
+    .price-number,
+    h4,
+    li {
+        color: $white-color;
+    }
+    li {
+        border-bottom: 1px solid rgba(255,255,255,.2);
+    }
+    .template-small-button {
+        color: $white-color;
+        background: $primary-color;
+        border: 1px solid transparent;
+    }
+}

@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------
+	## Header
+--------------------------------------------------------------*/
+.header-area {
+	.logo-wrapper {
+		img {
+			width: 220px;
+			height: auto;
+			display: block;
+		}
+	}
+}
+
+.home-03-header-area {
+	background-color: #31ecf2;
+	.info-bar-area {
+		padding: 10px 0;
+		.info-bar-logo {
+			text-align: center;
+			img {
+				width: 220px;
+				height: auto;
+				display: block;
+				margin: auto;
+			}
+		}
+	}
+	.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav {
+		text-align: left;
+	}
+}

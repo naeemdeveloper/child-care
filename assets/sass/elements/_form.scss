@@ -1,0 +1,106 @@
+/* Form */
+.form-style-01 {
+    padding: 60px 40px;
+    background-color: rgba(58, 51, 96, 0.9);
+    border-radius: 5px;
+    .input-title {
+        color: $white-color;
+        font-size: 20px;
+        font-family: $primary-font;
+        display: block;
+    }
+    select,
+    input {
+        padding: 12px 24px;
+        border-radius: 5px;
+        border: 1px solid $paragraph-color;
+        background-color: $white-color;
+        width: 100%;
+        margin: 20px 0 30px;
+    }
+    .form-price {
+        position: relative;
+        width: 145px;
+        margin: auto;
+        sup {
+            color: $white-color;
+            position: absolute;
+            top: 24px;
+            left: -15px;
+            font-size: 18px;
+        }
+        .price-number {
+            color: $secondary-color;
+            font-size: 50px;
+            font-family: $primary-font;
+            font-weight: 700;
+        }
+        span {
+            color: $white-color;
+        }
+    }
+    button {
+        color: $white-color;
+        background-color: $primary-color;
+        font-size: 18px;
+        margin-top: 30px;
+        padding: 12px 24px;
+        border-radius: 5px;
+        border: 1px solid transparent;
+        width: 100%;
+        transition: $transition;
+        font-family: $heading-font;
+        cursor: pointer;
+        &:hover {
+            color: $white-color;
+            background: $primary-color;
+            box-shadow: 0 10px 10px #ED517333;
+        }
+    }
+    .form-button-02 {
+        background-color: $secondary-color;
+        &:hover {
+            background-color: $secondary-color;
+            box-shadow: 0 10px 10px #7AC5344D;
+        }
+    }
+}
+
+.form-style-02 {
+    .input-title {
+        color: $heading-color;
+        font-size: 24px;
+        font-family: $primary-font;
+        font-weight: 600;
+        display: block;
+        text-align: left;
+        margin-top: 15px;
+    }
+    select,
+    input,
+    textarea {
+        background-color: $white-soft-color;
+        padding: 12px 24px;
+        border-radius: 5px;
+        border: 1px solid $border-color;
+        width: 100%;
+        margin: 15px 0;
+    }
+    button {
+        margin-top: 15px;
+        font-family: $heading-font;
+    }
+}
+
+// Nice Select 
+.nice-select {
+    font-size: 16px;
+    width: 100%;
+    margin: 20px 0 30px;
+}
+.nice-select:active, .nice-select.open, .nice-select:focus {
+    border-color: 1px solid $border-color;
+}
+.nice-select.open .list {
+    width: 100%;
+}

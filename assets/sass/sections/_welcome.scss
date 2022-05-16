@@ -1,0 +1,16 @@
+/* Welcome Area */
+.welcome-area {
+   .welcome-left {
+       img {
+           width: 90%;
+           height: auto;
+           display: block;
+       }
+   }
+   .welcome-right {
+       .dashed-style {
+           margin-left: 0;
+           width: 40%;
+       }
+   }
+}

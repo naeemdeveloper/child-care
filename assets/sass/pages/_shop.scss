@@ -1,0 +1,26 @@
+/* Shop Page */
+.shop-page-gallery-area {
+    .gallery-item-05,
+    .gallery-item-06,
+    .gallery-item-07,
+    .gallery-item-08 {
+        margin-bottom: 30px;
+    }
+}
+
+/* Shop Page 02 */
+.shop-page-02-gallery-area {
+    overflow: hidden;
+    .gallery-item-01,
+    .gallery-item-02,
+    .gallery-item-03,
+    .gallery-item-04 {
+        margin-bottom: 0;
+    }
+    .item-box-style-03 {
+        border-radius: 0;
+        .box-03-image {
+            height: 350px;
+        }
+    }
+}

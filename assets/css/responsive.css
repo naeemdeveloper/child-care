@@ -1,0 +1,1370 @@
+@media only screen and (min-width: 1900px) {
+    .home-01-banner .container-fluid {
+        padding: 0 4%;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 4%;
+    }
+    
+    .social-link-rotate-style {
+        right: -150px;
+    }
+    .home-01-banner .prev-arrow, .home-01-banner .next-arrow {
+        right: -1%;
+    }
+    .activity-item-02.item-box-style-01 {
+        margin-top: 0;
+    }
+
+    .page-banner-style .page-banner-content {
+        margin-top: 22%;
+    }
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 12%;
+    }
+}
+
+/* Custom Screen 01 */
+@media only screen and (min-width: 1600px) and (max-width: 1759.98px) {  
+    .home-01-banner .container-fluid {
+        padding: 0 4%;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 4%;
+    }
+    .social-link-rotate-style {
+        right: -150px;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 15%;
+        width: 50%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 85%;
+    }
+    
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 15%;
+        width: 60%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 85%;
+    }
+    
+    .item-box-style-04 .box-04-image {
+        height: 370px;
+    }
+
+    .home-02-banner .home-02-single-slide-content p {
+        width: 65%;
+    }
+    .home-02-welcome-area .section-bg-image {
+        height: 450px;
+    }
+
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 10%;
+    }
+
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/35%;
+    }
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/30%;
+    }
+
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 70px;
+        top: 15%;
+    }
+}
+
+
+/* Custom Screen 02 */
+@media only screen and (min-width: 1400px) and (max-width: 1599.98px) { 
+    .item-box-style-04 .box-04-image {
+        height: 320px;
+    }
+    .item-box-style-04 .hover-state .icon-box {
+        font-size: 30px;
+        padding: 26px 20px;
+    }
+    .item-box-style-04 .hover-state:before {
+        width: 25%;
+    }
+    .home-01-banner .container-fluid {
+        padding: 0 4%;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 4%;
+    }
+    .social-link-rotate-style {
+        right: -150px;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 15%;
+        width: 55%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 85%;
+    }
+
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 15%;
+        width: 60%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 85%;
+    }
+
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 20px;
+    }
+    .home-03-header-area .social-link-style ul li {
+        margin-left: 30px;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 10%;
+    }
+
+    .page-banner-style {
+        height: 650px;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/40%;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/40%;
+    }
+
+    .babysitter-page-babysitter area .item-box-style-04 .box-04-image {
+        height: 330px;
+    }
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/30%;
+    }
+
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 12%;
+    }
+
+    .signin-signup-popup {
+        width: 30%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 50px;
+        top: 15%;
+    }
+
+    .item-box-style-04 .hover-state .icon-box .flaticon-mail-send:before {
+        padding: 25px 18px;
+    }
+}
+
+
+/* Custom Screen 03 */
+@media only screen and (min-width: 1200px) and (max-width: 1399.98px){  
+    .item-box-style-04 .box-04-image {
+        height: 300px;
+    }
+    .item-box-style-04 .hover-state .icon-box {
+        font-size: 30px;
+        padding: 26px 10px;
+    }
+    .item-box-style-04 .hover-state {
+        padding: 20px;
+    }
+    .item-box-style-04 .hover-state:before {
+        width: 20%;
+    }
+    .home-01-banner .container-fluid {
+        padding: 0 4%;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 4%;
+    }
+    .social-link-rotate-style {
+        right: -150px;
+        top: 45%;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 15%;
+        width: 60%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 80%;
+    }
+    .home-01-banner .slick-dots,
+    .home-01-banner .prev-arrow,
+    .home-01-banner .next-arrow {
+        bottom: 30px;
+    }
+    
+    .form-style-01 .input-title {
+        font-size: 22px;
+    }
+    .item-box-style-02 .box-02-image {
+        height: 200px;
+    }
+    .item-box-style-02 .box-02-content {
+        padding: 0 24px 40px;
+    }    
+
+    .home-01-banner .single-slide-content {
+        padding-right: 0%;
+    }
+
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 15%;
+        width: 60%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 85%;
+    }
+
+    .home-03-header-area .info-bar-area {
+        font-size: 14px;
+    }
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 20px;
+    }
+    .home-03-header-area .social-link-style ul li {
+        margin-left: 30px;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 10%;
+    }
+    .home-03-activity-area h4 {
+        font-size: 24px;
+    }
+
+    .page-banner-style {
+        height: 600px;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/40%;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+
+    .services-page-activity-area .item-box-style-01 h4 {
+        font-size: 24px;
+    }
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/40%;
+    }
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/35%;
+    }
+
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 14%;
+    }
+    .class-details-section .class-details-sidebar .sidebar-single-box {
+        padding: 30px 20px;
+    }
+    .class-details-section .class-details-sidebar {
+        font-size: 15px;
+    }
+
+    .signin-signup-popup {
+        width: 35%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 50px;
+        top: 15%;
+    }
+
+    .item-box-style-04 .hover-state .icon-box .flaticon-mail-send:before {
+        font-size: 35px;
+        padding: 33px 12px;
+    }
+}
+
+
+/*-- Desktop --*/
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li,
+    .navbar-area.nav-style-02 .nav-container .nav-right-content ul li span {
+        font-size: 14px;
+    }
+
+    .item-box-style-04 .box-04-image {
+        height: 250px;
+    }
+    .item-box-style-04 .hover-state .icon-box {
+        font-size: 20px;
+        padding: 40px 10px;
+    }
+    .item-box-style-04 .hover-state {
+        padding: 20px;
+    }
+    .item-box-style-04 .hover-state:before {
+        width: 20%;
+    }
+    .home-01-banner .container-fluid {
+        padding: 0 2%;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 2%;
+    }
+    .social-link-rotate-style {
+        right: -190px;
+        top: 45%;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 15%;
+        width: 75%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 80%;
+    }
+    .home-01-banner .single-slide-image img {
+        margin-top: 40%;
+    }
+
+    .item-box-style-01 {
+        padding: 35px 20px;
+    }
+    .form-style-01 .input-title {
+        font-size: 20px;
+    }
+    .template-large-button {
+        padding: 12px 22px;
+        font-size: 16px;
+    }
+    .item-box-style-02 .box-02-image {
+        height: 160px;
+    }
+    .item-box-style-02 .box-02-content {
+        padding: 0 16px 40px;
+    } 
+    .item-box-style-03 .box-03-image {
+        height: 220px;
+    }
+
+
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 15%;
+        width: 80%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 80%;
+    }
+
+    .home-03-header-area .info-bar-area {
+        font-size: 14px;
+    }
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 0;
+        display: block;
+        margin-bottom: 5px;
+    }
+    .home-03-header-area .social-link-style ul li {
+        margin-left: 18px;
+    }
+
+    .page-banner-style {
+        height: 500px;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/40%;
+    }
+    .page-banner-style .social-link-rotate-style {
+        top: 50%;
+        right: -140px;
+    }
+    .page-banner-style .social-link-rotate-style li {
+        margin: 0 10px;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+
+    .services-page-activity-area .item-box-style-01 h4 {
+        font-size: 22px;
+    }
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/40%;
+    }
+    
+    .babysitter-banner-bg:before {
+        background: url(../img/banner-bg/babysitter-banner-bg.png) no-repeat center bottom/50%;
+    }
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/35%;
+    }
+
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 15%;
+    }
+
+    .signin-signup-popup {
+        width: 35%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 30px;
+        top: 15%;
+    }   
+    
+    .item-box-style-04 .hover-state .icon-box .flaticon-mail-send:before {
+        font-size: 35px;
+        padding: 33px 6px;
+    }
+}
+
+
+/*-- Tablet --*/
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+    h1 {
+        font-size: 55px;
+    }
+    
+    h2 {
+        font-size: 42px;
+    }
+    
+    h3 {
+        font-size: 30px;
+    }
+    
+    h4 {
+        font-size: 24px;
+    }
+    
+    h5 {
+        font-size: 20px;
+    }
+    
+    h6 {
+        font-size: 16px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-toggler {
+        background-color: #fff;
+        position: absolute;
+        top: 36px;
+        right: 15px;
+        border: 1px solid #131240;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content {
+        position: absolute;
+        top: 35px;
+        right: 95px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        background-color: rgba(237, 81, 115, .9);
+        padding: 40px 20px;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content ul li + li {
+        margin-left: 10px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li a,.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item a {
+        color: #fff;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item {
+        background: transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:first-child {
+        border-top: 1px solid transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+        border-bottom: 1px solid transparent;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li + li {
+        border-top: 1px solid transparent;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 2%;
+    }
+    .header-area .logo-wrapper img {
+        margin-top: 25px;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 20%;
+        width: 70%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 90%;
+    }
+    .home-01-banner .single-slide-image img {
+        margin-top: -10%;
+        width: 75%;
+        margin-left: auto;
+    }
+    .item-bounce {    
+        animation: none;
+    }
+    .social-link-rotate-style {
+        right: -180px;
+    }
+    .home-01-banner .prev-arrow {
+        left: 73%;
+    }
+
+    .activity-area .activity-left {
+        margin-bottom: 50px;
+    }
+    .tab-margin-bottom-50 {
+        margin-bottom: 50px;
+    }
+    .tab-margin-bottom-30 {
+        margin-bottom: 30px;
+    }
+    .classes-area .section-button {
+        position: inherit;
+        transform: rotate(0deg);
+    }
+    .footer-area .footer-copyright-area {
+        text-align: center;
+    }
+    .footer-area .footer-copyright-area .copyright-text {
+        margin-bottom: 20px;
+    }
+    .footer-area .footer-copyright-area ul {
+        float: none;
+    }
+    .footer-area .footer-copyright-area ul li {
+        margin-left: 0;
+        margin: 0 15px;
+    }
+
+    .home-02-header-area .info-bar-area .left-content li {
+        display: block;
+        margin-right: 0;
+    }
+    .home-02-header-area .social-link-style ul li {
+        margin-left: 20px;
+    }
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 20%;
+        width: 80%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 80%;
+    }
+    .home-02-banner .slick-dots button {
+        width: 20px;
+    }
+    .home-02-banner .slick-dots .slick-active button {
+        width: 35px;
+    }
+    .home-02-banner .slick-dots {
+        top: 40%;
+    }
+
+    .home-03-header-area .info-bar-area {
+        text-align: center;
+    }
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 0;
+        margin: 0 15px; 
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul {
+        float: none;
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul li {
+        margin-left: 0;
+        margin: 0 15px;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 20%;
+    }
+    .home-03-banner:before {
+        background: none;
+    }
+    .home-03-header-area .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        margin-top: 70px;
+    }
+
+    .page-banner-style {
+        height: 400px;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/40%;
+    }
+    .page-banner-style .social-link-rotate-style {
+        top: 25%;
+        right: 20px;
+        transform: rotate(0deg);
+    }
+    .about-banner-bg .social-link-rotate-style li {
+        margin: 0 10px;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+    .daycare-area .babycare-right img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .single-price-box.active {
+        top: 0;
+    }
+    .services-page-activity-area .item-box-style-01 h4 {
+        font-size: 22px;
+    }
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/35%;
+    }
+
+    .babysitter-banner-bg:before {
+        background: url(../img/banner-bg/babysitter-banner-bg.png) no-repeat center bottom/45%;
+    }
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/30%;
+    }
+
+    .page-banner-style-02 {
+        height: 300px;
+    }
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 16%;
+    }
+
+    .contact-details-form {
+        margin-left: 0;
+        margin-bottom: 70px;
+    }
+    .contact-details-area #map {
+        margin-left: 0;
+    }
+
+    .signin-signup-popup {
+        width: 45%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 30px;
+        top: 15%;
+    }
+    .signin-signup-popup .form-style-02 .input-title {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+}
+
+
+/*-- Landscape Phone --*/
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+    h1 {
+        font-size: 55px;
+    }
+    
+    h2 {
+        font-size: 42px;
+    }
+    
+    h3 {
+        font-size: 30px;
+    }
+    
+    h4 {
+        font-size: 20px;
+    }
+    
+    h5 {
+        font-size: 20px;
+    }
+    
+    h6 {
+        font-size: 16px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-toggler {
+        background-color: #fff;
+        position: absolute;
+        top: 36px;
+        right: 15px;
+        border: 1px solid #131240;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content {
+        position: absolute;
+        top: 35px;
+        right: 90px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        background-color: rgba(237, 81, 115, .9);
+        padding: 40px 20px;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content ul li + li {
+        margin-left: 10px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li a,.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item a {
+        color: #fff;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item {
+        background: transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:first-child {
+        border-top: 1px solid transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+        border-bottom: 1px solid transparent;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li + li {
+        border-top: 1px solid transparent;
+    }
+    .home-01-header .navbar-area.nav-style-02 .nav-container {
+        padding: 0 2%;
+    }
+    .header-area .logo-wrapper img {
+        margin-top: 25px;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 25%;
+        width: 90%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 90%;
+    }
+    .home-01-banner .single-slide-image img {
+        margin-top: -10%;
+        width: 70%;
+        margin-left: auto;
+    }
+    .item-bounce {    
+        animation: none;
+    }
+    .social-link-rotate-style {
+        right: -180px;
+    }
+    .home-01-banner .prev-arrow {
+        left: 70%;
+    }
+    .classes-area .section-button {
+        position: inherit;
+        transform: rotate(0deg);
+    }
+    .gallery-tab ul li {
+        font-size: 14px;
+        padding: 8px 10px;
+        margin-right: 10px;
+    }
+    .item-box-style-04 .box-04-image {
+        height: 280px;
+    }
+    .item-box-style-04 .hover-state .icon-box {
+        font-size: 20px;
+        padding: 35px 15px;
+    }
+    .item-box-style-04 .hover-state span {
+        font-size: 14px;
+    }
+    .item-box-style-04 .hover-state {
+        padding: 20px;
+    }
+    .item-box-style-04 .hover-state:before {
+        width: 20%;
+    }
+
+    .activity-area .activity-left {
+        margin-bottom: 50px;
+    }
+    .welcome-area .welcome-left-bg {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .section-bg-image {
+        height: 400px;
+    }
+    .tab-margin-bottom-50 {
+        margin-bottom: 50px;
+    }
+    .tab-margin-bottom-30 {
+        margin-bottom: 30px;
+    }
+    .section-padding-for-shape {
+        padding: 150px 0;
+    }
+    .item-box-style-02 .box-02-content {
+        padding: 0 20px 40px;
+    }
+    .template-large-button {
+        padding: 12px 30px;
+    }
+    .item-box-style-02 .box-02-image {
+        height: 200px;
+    }
+    .footer-area .footer-copyright-area {
+        text-align: center;
+    }
+    .footer-area .footer-copyright-area .copyright-text {
+        margin-bottom: 20px;
+    }
+    .footer-area .footer-copyright-area span {
+        font-size: 15px;
+    }
+    .footer-area .footer-copyright-area ul {
+        float: none;
+    }
+    .footer-area .footer-copyright-area ul li {
+        margin-left: 0;
+        margin: 0 10px;
+    }
+    .search-popup .search-form {
+        min-width: 90%;
+    }
+
+    .home-02-header-area .info-bar-area .left-content li {
+        display: block;
+        margin-right: 0px;
+    }
+    .home-02-header-area .social-link-style ul li {
+        margin-left: 20px;
+    }
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 25%;
+        width: 80%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 100%;
+    }
+    .home-02-banner .slick-dots button {
+        width: 20px;
+    }
+    .home-02-banner .slick-dots .slick-active button {
+        width: 35px;
+    }
+    .home-02-banner .slick-dots {
+        top: 65%;
+    }
+
+    .home-03-header-area .info-bar-area {
+        text-align: center;
+    }
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 0;
+        margin: 0 15px; 
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul {
+        float: none;
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul li {
+        margin-left: 0;
+        margin: 0 15px;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 25%;
+    }
+    .home-03-banner:before {
+        background: none;
+    }
+    .home-03-header-area .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        margin-top: 55px;
+    }
+    .home-03-activity-area h4 {
+        font-size: 22px;
+    }
+
+    .page-banner-style {
+        height: 400px;
+    }
+    .page-banner-style .page-banner-content {
+        margin-top: 30%;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/50%;
+    }
+    .page-banner-style .social-link-rotate-style {
+        top: 25%;
+        right: 20px;
+        transform: rotate(0deg);
+    }
+    .about-banner-bg .social-link-rotate-style li {
+        margin: 0 10px;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+    .daycare-area .babycare-right img {
+        width: 100%;
+        margin-top: 50px;
+    }
+
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/35%;
+    }
+    .single-price-box.active {
+        top: 0;
+    }
+
+    .babysitter-single-content {
+        margin-top: 50px;
+    } 
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/35%;
+    }
+
+    .page-banner-style-02 {
+        height: 300px;
+    }
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 25%;
+    }
+    .social-link-style ul li {
+        margin-left: 15px;
+    }
+
+    .contact-details-form {
+        margin-left: 0;
+        margin-bottom: 70px;
+    }
+    .contact-details-area #map {
+        margin-left: 0;
+        height: 500px;
+    }
+
+    .signin-signup-popup {
+        width: 65%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 30px;
+        top: 15%;
+    }
+    .signin-signup-popup .form-style-02 .input-title {
+        font-size: 16px;
+        margin-top: 0px;
+    }
+
+    .item-box-style-04 .hover-state .icon-box .flaticon-mail-send:before {
+        font-size: 30px;
+        padding: 30px 12px;
+    }
+
+    .item-box-style-03 .box-03-image {
+        height: 250px;
+    }
+}
+
+
+/*-- Portrait Phone --*/
+@media only screen and (max-width: 575.98px) {
+    body {
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 38px;
+    }
+    
+    h2 {
+        font-size: 32px;
+    }
+    
+    h3 {
+        font-size: 28px;
+    }
+    
+    h4 {
+        font-size: 20px;
+    }
+    
+    h5 {
+        font-size: 18px;
+    }
+    
+    h6 {
+        font-size: 16px;
+    }
+    .header-area .logo-wrapper img {
+        width: 200px;
+        margin-top: 25px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-toggler {
+        background-color: #fff;
+        position: absolute;
+        top: 85px;
+        left: 0;
+        border: 1px solid #131240;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content {
+        position: absolute;
+        top: 85px;
+        right: 0;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        background-color: rgba(237, 81, 115, .9);
+        padding: 20px 0;
+        margin-top: 60px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li a,.navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover.menu-item-has-children:before,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li:hover a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a,
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item a {
+        color: #fff;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav > li.current-menu-item {
+        background: transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li:first-child {
+        border-top: 1px solid transparent;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+        border-bottom: 1px solid transparent;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li + li {
+        border-top: 1px solid transparent;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content ul li + li {
+        margin-left: 10px;
+    }
+    .home-01-banner .single-slide-content {
+        margin-top: 50%;
+        width: 90%;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 90%;
+    }
+    .home-01-banner .single-slide-image img {
+        margin-top: 5%;
+        width: 70%;
+        margin-left: auto;
+    }
+    .item-bounce {    
+        animation: none;
+    }
+    .social-link-rotate-style {
+        right: -180px;
+        top: 55%;
+    }
+    .home-01-banner .prev-arrow {
+        left: 65%;
+    }
+    .home-01-banner .prev-arrow,
+    .home-01-banner .next-arrow,
+    .home-01-banner .slick-dots {
+        bottom: 50px;
+    }
+    .classes-area .section-button {
+        position: inherit;
+        transform: rotate(0deg);
+    }
+    .gallery-tab ul li {
+        font-size: 14px;
+        padding: 8px 10px;
+        margin-right: 10px;
+    }
+    .item-box-style-04 .box-04-image {
+        height: 300px;
+    }
+    .item-box-style-04 .hover-state .icon-box {
+        font-size: 24px;
+        padding: 25px 30px;
+    }
+    .item-box-style-04 .hover-state span {
+        font-size: 14px;
+    }
+    .item-box-style-04 .hover-state {
+        padding: 20px;
+    }
+    .mobile-device-hide {
+        display: none;
+    }
+
+
+
+    .section-padding-both {
+        padding: 80px 0;
+    }
+    .section-padding-top {
+        padding-top: 80px;
+    }
+    .section-padding-bottom {
+        padding-bottom: 80px;
+    }
+    .section-bg-image {
+        height: 250px;
+    }
+    .activity-area .activity-left {
+        margin-bottom: 30px;
+    }
+    .welcome-area .welcome-left-bg {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .tab-margin-bottom-50 {
+        margin-bottom: 30px;
+    }
+    .tab-margin-bottom-30 {
+        margin-bottom: 30px;
+    }
+    .section-padding-for-shape {
+        padding: 100px 0;
+    }
+    .section-title {
+        margin-bottom: 40px;
+    }
+    .form-style-01 {
+        padding: 50px 30px;
+    }
+    .form-style-01 .input-title {
+        font-size: 18px;
+    }
+    .mobile-margin-bottom-30 {
+        margin-bottom: 30px;
+    }
+    .template-large-button {
+        padding: 10px 24px;
+    }
+    .gallery-tab ul li {
+        width: 100%;
+        display: block;
+        margin: 5px 0;
+    }
+    .item-box-style-04 .box-04-image {
+        height: 350px;
+    }
+    .accordion-wrapper .card .card-header a:after {
+        right: 15px;
+    }
+    .footer-area .footer-widget-area {
+        padding: 80px 0;
+    }
+    .footer-area .footer-copyright-area {
+        text-align: center;
+    }
+    .footer-area .footer-copyright-area .copyright-text {
+        margin-bottom: 20px;
+    }
+    .footer-area .footer-copyright-area ul {
+        float: none;
+    }
+    .footer-area .footer-copyright-area ul li {
+        margin-left: 0;
+        margin: 0 5px;
+    }
+    .item-zooming {
+        animation: none;
+    }
+    .back-to-top {
+        right: 15px;
+    }
+    .search-popup .search-form {
+        min-width: 90%;
+    }
+
+    .home-02-header-area .info-bar-area .left-content {
+        text-align: center;
+    }
+    .home-02-header-area .info-bar-area .left-content li {
+        display: block;
+        margin-right: 0px;
+    }
+    .home-02-header-area .social-link-style ul {
+        float: none;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .home-02-header-area .social-link-style ul li {
+        margin-left: 0;
+        margin: 0 5px;
+    }
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 50%;
+        width: 90%;
+    }
+    .home-02-banner .home-02-single-slide-content p {
+        width: 100%;
+    }
+    .home-02-banner .home-02-single-slide-content h1 {
+        font-size: 32px;
+    }
+    .home-02-banner .home-02-single-slide-content .video-play-button i {
+        margin-left: 10px;
+    }
+    .home-02-banner .slick-dots button {
+        width: 20px;
+    }
+    .home-02-banner .slick-dots .slick-active button {
+        width: 35px;
+    }
+
+    .home-03-header-area .info-bar-area {
+        text-align: center;
+    }
+    .home-03-header-area .info-bar-area .left-content li {
+        margin-right: 0;
+        margin: 0 15px 5px; 
+        display: block;
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul {
+        float: none;
+    }
+    .home-03-header-area .info-bar-area .social-link-style ul li {
+        margin-left: 0;
+        margin: 0 5px;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 40%;
+    }
+    .home-03-banner:before {
+        background: none;
+    }
+    .home-03-header-area .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        margin-top: 55px;
+    }
+    .home-03-header-area .navbar-area.nav-style-02 .nav-container .navbar-toggler {
+        top: 25px;
+    }
+    .home-03-header-area .navbar-area.nav-style-02 .nav-container .nav-right-content {
+        top: 25px;
+    }
+
+    .page-banner-style {
+        height: 350px;
+    }
+    .page-banner-style .page-banner-content {
+        margin-top: 45%;
+    }
+    .about-banner-bg:before {
+        background: url(../img/banner-bg/about-banner-bg.png) no-repeat center bottom/50%;
+    }
+    .page-banner-style .social-link-rotate-style {
+        top: 40%;
+        right: 20px;
+        transform: rotate(0deg);
+    }
+    .page-banner-style .social-link-rotate-style li {
+        margin: 10px 0;
+        display: block;
+    }
+    .daycare-area .daycare-left {
+        width: 100%;
+    }
+    .daycare-area .babycare-right img {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .services-banner-bg:before {
+        background: url(../img/banner-bg/services-banner-bg.png) no-repeat center bottom/50%;
+    }
+    .single-price-box.active {
+        top: 0;
+    }
+
+    .babysitter-banner-bg:before {
+        background: url(../img/banner-bg/babysitter-banner-bg.png) no-repeat center bottom/50%;
+    }
+    .babysitter-banner-bg .social-link-rotate-style {
+        top: 55%;
+        right: 20px;
+        transform: rotate(0deg);
+    }
+
+    .babysitter-single-content {
+        margin-top: 30px;
+    } 
+
+    .class-banner-bg:before {
+        background: url(../img/banner-bg/class-banner-bg.png) no-repeat center bottom/40%;
+    }
+
+    .page-banner-style-02 {
+        height: 350px;
+    }
+    .page-banner-style-02 .page-banner-content {
+        margin-top: 45%;
+    }
+    .social-link-style ul li {
+        margin-left: 5px;
+    }
+    .social-link-style ul li a {
+        font-size: 12px;
+    }
+
+    .contact-details-form {
+        margin-left: 0;
+        margin-bottom: 70px;
+    }
+    .contact-details-area #map {
+        margin-left: 0;
+        height: 400px;
+    }
+    .contact-banner-bg:before {
+        background: url(../img/banner-bg/contact-banner-bg.png) no-repeat center bottom/45%;
+    }
+
+    .signin-signup-popup {
+        width: 80%;
+    }
+    .signin-signup-popup .signin-signup-part {
+        padding: 0 10px;
+        top: 12%;
+    }
+    .signin-signup-popup .form-style-02 .input-title {
+        font-size: 16px;
+        margin-top: 0px;
+    }
+    .signin-signup-popup .form-style-02 select, .form-style-02 input, .form-style-02 textarea {
+        margin: 10px 0;
+    }
+}
+
+/* Custom Screen 04 */
+@media only screen and (max-height: 400px) {
+    .home-01-banner .single-slide-content {
+        margin-top: 15%;
+    }
+    .margin-top-30 {
+        margin-top: 10px;
+    }
+    .home-01-banner .single-slide-content p {
+        width: 85%;
+    }
+    .home-01-banner .single-slide-image img {
+        display: none;
+    }
+    .home-01-banner .prev-arrow, .home-01-banner .next-arrow,
+    .home-01-banner .slick-dots {
+        bottom: 30px;
+    }
+    .home-01-banner .slick-dots {
+        left: 40%;
+    }
+    .social-link-rotate-style {
+        right: -130px;
+    }
+    .social-link-rotate-style ul li {
+        margin: 0 10px;
+        font-size: 14px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        padding: 10px;
+    }
+
+    .home-02-banner .home-02-single-slide-content {
+        margin-top: 15%;
+    }
+    .home-02-banner .home-02-single-slide-image img {
+        display: none;
+    }
+    .home-02-banner .slick-dots {
+        top: 45%;
+    }
+
+    .home-03-banner .home-03-single-slide-image-01::before, .home-03-banner .home-03-single-slide-image-02::before {
+        display: none;
+    }
+    .home-03-banner .home-03-single-slide-content {
+        margin-top: 15%;
+    }
+}

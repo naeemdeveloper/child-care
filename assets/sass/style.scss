@@ -1,0 +1,63 @@
+/*
+Theme Name: Child Care
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Version: 1.0
+*/
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+
+
+
+--------------------------------------------------------------*/
+
+
+//== Global Design
+@import "global/_mixins";
+@import "global/_variables";
+@import "global/_global";
+@import "global/_gutenberg";
+@import "global/_theme";
+
+//== Sections
+@import "sections/_navbar";
+@import "sections/_header";
+@import "sections/_footer";
+@import "sections/_widgets";
+@import "sections/_banner";
+@import "sections/_activity";
+@import "sections/_welcome";
+@import "sections/_classes";
+@import "sections/_gallery";
+@import "sections/_babysitter";
+@import "sections/_faq";
+@import "sections/_counter";
+@import "sections/_form-section";
+
+//== Elements
+@import "elements/_accordion";
+@import "elements/_back_top";
+@import "elements/_preloader";
+@import "elements/_search_popup";
+@import "elements/_button";
+@import "elements/_floating-icon";
+@import "elements/_modal-content";
+@import "elements/_form";
+@import "elements/_info-bar";
+
+// == Pages
+@import "pages/_about-us";
+@import "pages/_services";
+@import "pages/_babysitter-page";
+@import "pages/_babysitter-single";
+@import "pages/_class";
+@import "pages/_shop";
+@import "pages/_class-details";
+@import "pages/_contact";
+@import "pages/_admission";
+@import "pages/_blog";

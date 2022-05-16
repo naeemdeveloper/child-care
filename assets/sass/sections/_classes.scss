@@ -1,0 +1,11 @@
+/* Classes */
+.classes-area {
+    position: relative;
+    .section-button {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        transform: rotate(-90deg);
+    }
+}

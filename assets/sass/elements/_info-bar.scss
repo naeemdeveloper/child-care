@@ -1,0 +1,14 @@
+/* Info Bar */
+.info-bar-area {
+    padding: 20px 0;
+    .left-content {
+        li {
+            display: inline;
+            margin-right: 50px;
+            i {
+                color: $primary-color;
+                padding-right: 10px;
+            }
+        }
+    }
+}
